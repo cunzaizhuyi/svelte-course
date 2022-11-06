@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Dom from './lib/DomRef.svelte'
+  import Dom from './lib/Class.svelte'
 </script>
 
 <main>
