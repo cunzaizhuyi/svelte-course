@@ -1,6 +1,7 @@
 <script lang="ts">
   import Son from './Son.svelte';
 
+//  样式穿透问题  :global进行穿透  默认不穿透
 </script>
 
 <div class="parent">
@@ -10,6 +11,11 @@
   </Son>
 </div>
 
-<style>
-
+<style lang="scss">
+.parent{
+  background: gray;
+  :global(.son){
+    height: 300px;
+  }
+}
 </style>
