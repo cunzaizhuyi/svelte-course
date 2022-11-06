@@ -1,9 +1,9 @@
 <script lang="ts">
-  import Compute from './lib/Compute.svelte'
+  import If from './lib/If.svelte'
 </script>
 
 <main>
-  <Compute></Compute>
+  <If></If>
 </main>
 
 <style>
