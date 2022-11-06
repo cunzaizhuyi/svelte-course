@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Dom from './lib/EventParams.svelte'
+  import Dom from './lib/comp/Parent.svelte'
 </script>
 
 <main>
