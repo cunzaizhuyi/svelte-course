@@ -1,9 +1,9 @@
 <script lang="ts">
-  import Html from './lib/Html.svelte'
+  import Dom from './lib/DomRef.svelte'
 </script>
 
 <main>
-  <Html></Html>
+  <Dom></Dom>
 </main>
 
 <style>
