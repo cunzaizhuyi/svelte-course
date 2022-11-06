@@ -1,9 +1,9 @@
 <script lang="ts">
-  import State from './lib/State.svelte'
+  import Compute from './lib/Compute.svelte'
 </script>
 
 <main>
-  <State></State>
+  <Compute></Compute>
 </main>
 
 <style>
