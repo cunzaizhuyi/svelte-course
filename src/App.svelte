@@ -1,9 +1,9 @@
 <script lang="ts">
-  import If from './lib/If.svelte'
+  import Html from './lib/Html.svelte'
 </script>
 
 <main>
-  <If></If>
+  <Html></Html>
 </main>
 
 <style>
