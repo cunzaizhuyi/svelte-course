@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Dom from './lib/slot/Parent.svelte'
+  import Dom from './lib/Animation.svelte'
 </script>
 
 <main>
